@@ -1,66 +1,66 @@
 #WEBSITE OVERVIEW
 
-##MASTER PAGE 
+###MASTER PAGE 
 
 A master page for the website with a store logo that links to the home page, a menu to navigate the site, a site map path, a tree view, a text box with default focus and a button with default focus.
 
-##HOME PAGE 
+###HOME PAGE 
 
 A simple home page with text, images and view state.
 
-##PRODUCTS PAGE 
+###PRODUCTS PAGE 
 
 A page displaying products in a grid view with insert, edit and delete with error handling, also with sorting and paging.
 
-##ALCOHOL PAGE 
+###ALCOHOL PAGE 
 
 A page with a list view displaying all alcoholic products with insert, edit, delete paging and sorting.
 
-##BAKERY PAGE 
+###BAKERY PAGE 
 
 A page with a skewed list view displaying all baked good with paging.
 
-##DAIRY PAGE 
+###DAIRY PAGE 
 
 A page with a grouped list view displaying all dairy products with paging.
 
-##DRINKS PAGE 
+###DRINKS PAGE 
 
 A page with a Details view with insert, edit, delete and paging.
 
-##FRESH FRUIT PAGE 
+###FRESH FRUIT PAGE 
 
 A page with a master drop down list controlling(driving) a form view displaying the selected fruit. Also on the page is url encoding.
 
-##FROZEN FOOD PAGE 
+###FROZEN FOOD PAGE 
 
 A page with a master drop down list controlling a formatted (driving) details view of the selected frozen food.
 
-##VEGETABLES PAGE 
+###VEGETABLES PAGE 
 
 page using a Details View to view data in single record step thru mode of each vegetable available with insert, edit and delete with paging. Page also has session state.
 
-##DELIVERY PAGE 
+###DELIVERY PAGE 
 
 A page that displays view state
 
-##CHECKOUT PAGE 
+###CHECKOUT PAGE 
 
 A page displaying hidden field
 
-##CONTACT US PAGE 
+###CONTACT US PAGE 
 
 A page with server controls with validation for each including a validation summary, a range validator, a custom validator, regular expression and a compare validator. Also access keys using alt+n.
 
-##CLEARANCE PAGE 
+###CLEARANCE PAGE 
 
 A page that displays cookies.
 
-##STORE PAGE 
+###STORE PAGE 
 
 A page with a master drop down list that displays the selected store in a details view
 
-##CLUB CARD PAGE 
+###CLUB CARD PAGE 
 
 A page with a master grid view controlling(driving) a details view.
 
